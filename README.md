@@ -29,5 +29,5 @@ print(res)
 ![image](https://github.com/Loknaath-sec/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/145742558/51c63380-c8d2-4e81-aebd-bef92d97d37d)
 
 ## Result: 
-Thus the solutions for the linear equations are successfully solved using python program
+Thus the solutions for the linear equations are successfully solved using python program.
 
